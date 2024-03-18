@@ -1,2 +1,7 @@
-# test_repo
-This repository will be used for testing and demonstrating the use of GitHub
+# Repository to test the use of git and gitHub
+
+This repository will be used for testing and demonstrating the use of git and GitHub.
+
+Contributors are:
+
+* Britta
