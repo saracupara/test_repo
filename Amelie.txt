@@ -1,0 +1,8 @@
+---
+title: "Amelie.txt"
+author: "Amelie"
+date: "2025-04-22"
+output: html_document
+---
+
+Huhuuu
